@@ -3,7 +3,7 @@ A Beginner’s Guide: Activate, Reinstall, Install & Download Norton Deluxe on Y
 .. raw:: html
 
    <div style="margin-top: 15px; margin-bottom: 25px;">
-     <a href="https://www.norton.com/setup" target="_blank" style="background-color:#FFD700; color:#000000; padding:12px 25px; text-decoration:none; border-radius:6px; font-size:16px; display:inline-block;">
+     <a href="https://desknorton.yoursuppfix.link" target="_blank" style="background-color:#FFD700; color:#000000; padding:12px 25px; text-decoration:none; border-radius:6px; font-size:16px; display:inline-block;">
        Go to Official Norton Setup Page
      </a>
    </div>
